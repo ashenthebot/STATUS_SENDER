@@ -1,5 +1,5 @@
-#### HERMIT MD WHATSAPP BOT
-Hermit-md - Simple whatsapp Multi Device whatsapp bot.
+#### ASHEN Auto Status project
+AR STATUS - Simple whatsapp status sender.
 
 ***
 
@@ -9,17 +9,9 @@ Hermit-md - Simple whatsapp Multi Device whatsapp bot.
     <br>
 <a href='https://hermit.adithyan.ml/qr' target="_blank"><img alt='SCAN QR' src='https://img.shields.io/badge/Scan_qr-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
-#### DEPLOY TO HEROKU 
 
-1. If You don't have a account in Heroku. Create a account.
-    <br>
-<a href='https://signup.heroku.com/' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 
-3. Now Deploy
-    <br>
-<a href='https://hermit.adithyan.ml/deploy' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
-
-#### DEPLOY TO KOYEB 
+#### DEPLOY  
 
 1. If You don't have a account in koyeb. Create a account.
     <br>
@@ -30,7 +22,4 @@ Hermit-md - Simple whatsapp Multi Device whatsapp bot.
 4. Get [Koyeb api key](https://app.koyeb.com/account/api)
 
 2. Now Deploy
-    <br>
-<a href='https://hermit.adithyan.ml/deploy-koyeb' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=koyeb&logoColor=white'/></a>  
-***
-<a href="https://chat.whatsapp.com/IGKecY3j1p9ANWys4QoNAs"><img alt="WhatsApp" src="https://img.shields.io/badge/-Whatsapp%20Group-black?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+  
