@@ -17,8 +17,8 @@ DEBUG = process.env.DEBUG === undefined ? false : convertToBool(process.env.DEBU
 module.exports = {
 	VERSION: 'v4.3.2', 
     SESSION_ID: process.env.SESSION_ID || '01_15_H_E_R_M_I_T_M7_9OMH',
-    KOYEB_API_KEY: process.env.KOYEB_API_KEY || '',
-    KOYEB_APP_NAME: process.env.KOYEB_APP_NAME || '',  
+    KOYEB_API_KEY: process.env.KOYEB_API_KEY || 'ky4iontspsz6qp3h1461nd64hhb3znwm7ulzmpjfc91un598xvn7wkugm1vvitlz',
+    KOYEB_APP_NAME: process.env.KOYEB_APP_NAME || 'ash',  
     MODE: process.env.MODE || 'private',
     HEROKU: {
         HEROKU: process.env.HEROKU === undefined ? false : convertToBool(process.env.HEROKU),
